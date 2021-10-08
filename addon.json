@@ -1,0 +1,19 @@
+{
+    "legacy_addon_id": "rtAERUP",
+    "title": "[TH] Activation Email Reminder/User Purger",
+    "description": "Automatically remind & remove inactive user registrations.",
+    "version_id": 1000191,
+    "version_string": "1.0.1 Patch Level 1",
+    "dev": "ThemeHouse",
+    "dev_url": "https://www.themehouse.com",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": [],
+    "require": {
+        "XF": [
+            2010010,
+            "XenForo 2.1.0+"
+        ]
+    },
+    "icon": "icon.png"
+}

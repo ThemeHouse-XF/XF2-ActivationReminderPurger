@@ -1,0 +1,62 @@
+{
+    "cron_entry.tharp_activationReminder.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "56b2a80e1b49149f86a2932d26301be8"
+    },
+    "cron_entry.tharp_userPurger.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "8b68f1e3c565d765a2cb4b5de4e5f677"
+    },
+    "option.thactivationreminderpurger_purgeTime.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "0132d95d8b14bc72e6cf7c95d5110617"
+    },
+    "option.thactivationreminderpurger_resendTime.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "4c1fa63f203ba8fe47800a48f857a9cd"
+    },
+    "option_explain.thactivationreminderpurger_purgeTime.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "6e217e1f71723d4896aa5f5177660579"
+    },
+    "option_explain.thactivationreminderpurger_resendTime.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "53107af016510257f034f2a7091bc5ae"
+    },
+    "option_group.thactivationreminderpurger.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "8dbf8e0512fff1b22b750fc4684d873a"
+    },
+    "option_group_description.thactivationreminderpurger.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "2ad18eb8217a75dcf64a742f0ab31a55"
+    },
+    "tharp_purging_inactive_users.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "fb85806568b58dd543fcce230a6f65d0"
+    },
+    "tharp_sending_activation_reminder_emails.txt": {
+        "global_cache": false,
+        "version_id": 1000011,
+        "version_string": "1.0.0 Alpha 1",
+        "hash": "98778ce4a514e943ccac286b0c34d378"
+    }
+}

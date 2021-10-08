@@ -1,0 +1,17 @@
+{
+    "cron_class": "ThemeHouse\\ActivationReminderPurger\\Cron\\ActivationReminderEmail",
+    "cron_method": "run",
+    "run_rules": {
+        "day_type": "dow",
+        "dow": [
+            -1
+        ],
+        "hours": [
+            -1
+        ],
+        "minutes": [
+            0
+        ]
+    },
+    "active": true
+}

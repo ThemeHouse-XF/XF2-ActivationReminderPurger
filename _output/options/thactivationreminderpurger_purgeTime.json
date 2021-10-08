@@ -1,0 +1,12 @@
+{
+    "edit_format": "spinbox",
+    "edit_format_params": "step=1\nmin=0\nmax=120",
+    "data_type": "integer",
+    "sub_options": [],
+    "validation_class": "",
+    "validation_method": "",
+    "default_value": "14",
+    "relations": {
+        "thactivationreminderpurger": 110
+    }
+}

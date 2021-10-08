@@ -1,0 +1,1 @@
+If a user has not activated their account within X days, an email reminder will be sent to them. Set to 0 to disable activation reminder emails.

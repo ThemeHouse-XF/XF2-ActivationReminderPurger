@@ -1,0 +1,9 @@
+{
+    "event_id": "entity_structure",
+    "execute_order": 10,
+    "callback_class": "ThemeHouse\\ActivationReminderPurger\\Listener\\EntityStructure",
+    "callback_method": "xfUser",
+    "active": true,
+    "hint": "XF\\Entity\\User",
+    "description": "XF\\Entity\\User"
+}
